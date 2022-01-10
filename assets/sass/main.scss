@@ -1,0 +1,27 @@
+//main.scss Archivo Manifiesto
+
+//abstracts
+@import 'abstracts/varibles';
+@import 'abstracts/mixins';
+
+//vendors
+//base
+@import 'base/base';
+@import 'base/resent';
+@import 'base/typography';
+
+//layout
+@import 'layout/form';
+@import 'layout/header';
+@import 'layout/main-section';
+
+//components
+@import 'components/buttons';
+@import 'components/inputs';
+
+//pages
+//themes
+
+
+
+
