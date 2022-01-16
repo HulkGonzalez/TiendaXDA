@@ -1,0 +1,40 @@
+.header {
+    
+
+    &__lin {
+      color: $smoky-black;
+      justify-content:flex-start;
+      margin: 0% 5%;
+    }
+    &__link {
+      display: inline-flex;
+
+
+    }
+    &__links {
+   
+    }
+    &__logo {
+      width: 5%;
+      text-align: center;
+      background-color: $smoky-black;
+
+
+      &--text {
+      color: $white;
+      font-family: $old-standart-tt;
+      font-weight: $bold;
+      font-size: $xxx-large;
+   
+
+      }
+      
+
+
+
+    }
+    &__nav {
+       display: flex;
+       justify-content: space-between;
+    }
+  }

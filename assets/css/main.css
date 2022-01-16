@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+.header__lin {
+  color: #0c0910;
+  justify-content: flex-start;
+  margin: 0% 5%;
+}
+.header__link {
+  display: inline-flex;
+}
+.header__logo {
+  width: 5%;
+  text-align: center;
+  background-color: #0c0910;
+}
+.header__logo--text {
+  color: #fff;
+  font-family: "Old Standard TT", serif;
+  font-weight: 700;
+  font-size: 50;
+}
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.imagen__principal {
+  width: 100%;
+}
+
+.section01__h1 {
+  font-family: "Old Standard TT", serif;
+  font-weight: 700;
+  font-size: 30;
+}
+
+/*# sourceMappingURL=main.css.map */

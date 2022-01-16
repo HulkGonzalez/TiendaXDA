@@ -1,0 +1,38 @@
+.imagen {
+    &__principal {
+      width: 100%;
+    }
+
+  }
+  .main {
+
+  }
+  
+  .section01 {
+
+    &__h1 {
+    font-family: $old-standart-tt;
+    font-weight: $bold;
+    font-size: $xx-large
+    }
+    &__p {
+
+    }
+
+  }
+  .section02 {
+
+    &__h2 {
+
+    }
+
+    &__newsletter {
+
+    }
+
+    &__suscribir {
+
+    }
+
+  }
+
